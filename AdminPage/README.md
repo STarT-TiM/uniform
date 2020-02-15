@@ -1,5 +1,8 @@
 
-# go into the project
+After you clone this project, do the following:
+
+```bash
+#go into the project
 cd WeUniform
 
 # create a .env file
